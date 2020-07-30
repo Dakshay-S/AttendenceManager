@@ -1,0 +1,9 @@
+.root{
+    -fx-font-size: 16px;
+    -fx-font-family: "Courier New";
+    -fx-base: #010101;
+    -fx-background: #7D7C7C;
+    -fx-focus-color:transparent;
+
+;
+}

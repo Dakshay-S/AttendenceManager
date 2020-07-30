@@ -1,0 +1,10 @@
+.table-view .column-header .label{
+    -fx-text-fill: white;
+    -fx-text-weight:bold;
+}
+
+.table-view .table-cell
+{
+-fx-alignment:center;
+}
+
